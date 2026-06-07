@@ -16,6 +16,10 @@ data collection to neural rendering.
 
 ## Dataset was captured in an outdoor park using a smartphone.
 
+### Demo Video
+
+https://github.com/user-attachments/assets/0b8d0718-7243-4c41-ad11-d76c2b755728
+
 Scene:
 - Outdoor statue
 - Natural lighting
